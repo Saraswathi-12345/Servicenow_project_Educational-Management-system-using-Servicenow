@@ -23,6 +23,10 @@ Manual data entry → Errors & delays?  Fixed with automation for accuracy & spe
 🚀 Quick Start
 1. Import Update Set into your ServiceNow instance 
 2. Configure tables & flows 
-3. Test admissions & tracking! 
+3. Test admissions & tracking!
+
+My Role / Learning
+
+Through this project, I gained hands-on experience in ServiceNow administration, Service Catalog, custom table creation, Client Scripts, Flow Designer, approvals, notifications, and access control. I also improved my problem-solving, testing, documentation, and workflow automation skills.
 
 Demo inspired by Smartbridge internship! 
